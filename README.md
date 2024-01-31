@@ -10,6 +10,7 @@ Repository containing portfolio of data science projects from Kaggle completed b
 	- [IPL Auction EDA](https://www.kaggle.com/code/ilya2raev/ipl-auction-eda): Analyzing a players' auction dataset about the most popular cricket Indian Premier League.
 	- [Gross Average Monthly Wages by Country in 2020](https://www.kaggle.com/code/ilya2raev/gross-average-monthly-wages-by-country-in-2020): Small EDA of monthly wages in the world.
 	- [ATP Tennis EDA](https://www.kaggle.com/code/ilya2raev/atp-tennis):  EDA of ATP tennis matches since 2000.
+	- [British Airline Reviews](https://www.kaggle.com/code/ilya2raev/british-airline-review-dataset):  Cleaning, preprocessing, and EDA of BA reviews over the past ten years.
 
 	_Tools: scikit-learn, pandas, seaborn, matplotlib, plotly, numpy, folium_
 
