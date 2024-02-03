@@ -19,7 +19,7 @@ Repository containing portfolio of data science projects from Kaggle completed b
 	- [Disaster Tweets Classifier](https://www.kaggle.com/code/ilya2raev/nlp-with-disaster-tweets-tf-idf-bl-bert): Binary classification of disaster tweets. Consists of TF-IDF+LogReg baseline and BERT finetuning.
 	- [PII Detection](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data): A presidio-based solution to detect personally identifiable information at the Kaggle competition. [One of the most efficient solutions](https://www.kaggle.com/code/ryanholbrook/pii-detection-efficiency-lb/notebook)
 
-	_Tools: scikit-learn, pandas, nltk, tensorflow_
+	_Tools: scikit-learn, pandas, nltk, tensorflow, presidio-analyzer, polars, transformers_
 
 - ### Machine Learning
   
